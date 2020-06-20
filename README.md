@@ -1,1 +1,1 @@
-# templategulp
+npm i , gulp , npm build
